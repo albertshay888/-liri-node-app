@@ -19,6 +19,5 @@ To discover where and when your artist is performing live at
 
 `node liri.js movie-this <enter favorite artist>`
 
-In addition LIRI will log the data you enter into your terminal/bash window and the results in a .txt file called log.txt, as you can see in the screen shot below
+In addition LIRI will log the data you enter into your terminal/bash window and the results in a .txt file called log.txt
 
-![Screenshot of the data that has been logged by LIRI](images/concert-this_with_band.png)
