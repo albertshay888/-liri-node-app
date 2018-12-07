@@ -1,0 +1,645 @@
+User Command: node liri.js spotify-this-song stronger 
+
+ERROR: Retrieving Spotify track -- StatusCodeError: 400 - {"error":"invalid_client","error_description":"Invalid client"}User Command: node liri.js spotify-this-song stronger 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Stronger
+Artist: Kanye West
+Album: Graduation
+Preview Here: null
+
+User Command: node liri.js spotify-this-song 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Loose Ends
+Artist: Imogen Heap
+Album: Speak for Yourself (Deluxe Version)
+Preview Here: https://p.scdn.co/mp3-preview/65275c34eb8cfb0e0a8a12a3196931751285acdb?cid=be85e28006624b7199155574a34cad84
+
+User Command: node liri.js spotify-this-song stronger 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Stronger
+Artist: Kanye West
+Album: Graduation
+Preview Here: null
+
+User Command: node liri.js spotify-this-song 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Lose Yourself - From "8 Mile" Soundtrack
+Artist: Eminem
+Album: Curtain Call
+Preview Here: null
+
+User Command: node liri.js spotify-this-song hit me baby one more time 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Hit Me Baby One More Time (Epic Trailer Version) [feat. Blu Holliday]
+Artist: J2
+Album: The Iconic Series, Vol. 5
+Preview Here: https://p.scdn.co/mp3-preview/1e34f433e141be331c85acf18172fec19ada9f5b?cid=be85e28006624b7199155574a34cad84
+
+User Command: node liri.js movie-this 
+
+
+
+
+movie-this inception
+
+
+    Title: Inception
+    Released: 2010
+    IMDB Rating: 8.8
+    Rotten Tomatos Rating: 86%
+    Country: USA, UK
+    Language: English, Japanese, French
+    Plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.
+    Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+            
+spotify-this lose yourself
+
+spotify-this lose yourself
+
+spotify-this hit me baby one more time
+
+spotify-this hit me baby one more time
+
+concert-this drake
+
+
+    Venue: Accorhotels Arena
+    Location: Paris, 
+    Event Date: March 8, 2019
+            
+spotify-this-song hit me baby one more time
+
+
+    Artist: J2
+    Track: Hit Me Baby One More Time (Epic Trailer Version) [feat. Blu Holliday]
+    Preview: https://p.scdn.co/mp3-preview/1e34f433e141be331c85acf18172fec19ada9f5b?cid=be85e28006624b7199155574a34cad84
+    Album: The Iconic Series, Vol. 5
+            
+concert-this drake
+
+
+    Venue: Accorhotels Arena
+    Location: Paris, 
+    Event Date: March 8, 2019
+            
+movie-this inception
+
+
+    Title: Inception
+    Released: 2010
+    IMDB Rating: 8.8
+    Rotten Tomatos Rating: 86%
+    Country: USA, UK
+    Language: English, Japanese, French
+    Plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.
+    Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+            
+do-what-it-says
+
+
+    Artist: Backstreet Boys
+    Track: I Want It That Way
+    Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=be85e28006624b7199155574a34cad84
+    Album: The Hits--Chapter One
+            
+spotify-this-song lose yourself
+
+
+    Artist: Eminem
+    Track: Lose Yourself - From "8 Mile" Soundtrack
+    Preview: null
+    Album: Curtain Call
+            
+do-what-it-says test
+
+
+    Artist: Backstreet Boys
+    Track: I Want It That Way
+    Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=be85e28006624b7199155574a34cad84
+    Album: The Hits--Chapter One
+            
+do-what-it-says
+
+
+    Artist: Backstreet Boys
+    Track: I Want It That Way
+    Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=be85e28006624b7199155574a34cad84
+    Album: The Hits--Chapter One
+            
+do-what-it-says
+
+
+    Artist: Backstreet Boys
+    Track: I Want It That Way
+    Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=be85e28006624b7199155574a34cad84
+    Album: The Hits--Chapter One
+            
+
+
+spotify-this-song lose yourself
+
+
+         Artist: Eminem
+         Track: Lose Yourself - From "8 Mile" Soundtrack
+         Preview: null
+         Album: Curtain Call
+spotify-this-song
+
+
+         Artist: Eminem
+         Track: Lose Yourself - From "8 Mile" Soundtrack
+         Preview: null
+         Album: Curtain Call
+
+
+spotify-this-song lose yourself
+
+
+         Artist: Eminem
+         Track: Lose Yourself - From "8 Mile" Soundtrack
+         Preview: null
+         Album: Curtain Call
+clear
+
+
+
+spotify-this-song lose yourself
+
+
+         Artist: Eminem
+         Track: Lose Yourself - From "8 Mile" Soundtrack
+         Preview: null
+         Album: Curtain Call
+movie-this inception
+
+
+               Title: Inception
+               Released: 2010
+               IMDB Rating: 8.8
+               Rotten Tomatos Rating: 86%
+               Country: USA, UK
+               Language: English, Japanese, French
+               Plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.
+               Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+spotify-this-song lose yourself
+
+
+         Artist: Eminem
+         Track: Lose Yourself - From "8 Mile" Soundtrack
+         Preview: null
+         Album: Curtain Call
+movie-this inception
+
+
+               Title: Inception
+               Released: 2010
+               IMDB Rating: 8.8
+               Rotten Tomatos Rating: 86%
+               Country: USA, UK
+               Language: English, Japanese, French
+               Plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.
+               Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+concert-this drake
+
+Venue: Accorhotels Arena
+                                  Location: Paris, 
+                                  Event Date: March 8, 2019
+spotify-this-song lose yourself
+
+
+         Artist: Eminem
+         Track: Lose Yourself - From "8 Mile" Soundtrack
+         Preview: null
+         Album: Curtain Call
+movie-this inception
+
+
+               Title: Inception
+               Released: 2010
+               IMDB Rating: 8.8
+               Rotten Tomatos Rating: 86%
+               Country: USA, UK
+               Language: English, Japanese, French
+               Plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.
+               Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+conert-this drake
+
+concert-this travis scott
+
+Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+                                  Location: Portland, MN
+                                  Event Date: December 22, 2018
+movie-this the matrix
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+spotify-this-song non stop
+
+
+         Artist: Leslie Odom Jr.
+         Track: Non-Stop
+         Preview: https://p.scdn.co/mp3-preview/92c27c363ffb3c84fe7356de9c60a79e1e69780b?cid=be85e28006624b7199155574a34cad84
+         Album: Hamilton (Original Broadway Cast Recording)
+spotify-this-song
+
+
+         Artist: Eminem
+         Track: Lose Yourself - From "8 Mile" Soundtrack
+         Preview: null
+         Album: Curtain Call
+concert-this travis scott
+
+Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+                                  Location: Portland, MN
+                                  Event Date: December 22, 2018
+concert-this travis scott
+
+Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+                                  Location: Portland, MN
+                                  Event Date: December 22, 2018
+spotify-this-song
+
+
+         Artist: Eminem
+         Track: Lose Yourself - From "8 Mile" Soundtrack
+         Preview: null
+         Album: Curtain Call
+movie-this
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+concert-this
+
+do-what-it-says
+
+
+         Artist: Backstreet Boys
+         Track: I Want It That Way
+         Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=be85e28006624b7199155574a34cad84
+         Album: The Hits--Chapter One
+spotify-this-song lose yourself
+
+
+         Artist: Eminem
+         Track: Lose Yourself - From "8 Mile" Soundtrack
+         Preview: null
+         Album: Curtain Call
+spotify-this-song Nonstop
+
+
+         Artist: Drake
+         Track: Nonstop
+         Preview: null
+         Album: Scorpion
+concert-this travis scott
+
+Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+                                  Location: Portland, MN
+                                  Event Date: December 22, 2018
+movie-this the matrix
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+concert-this travis scott
+
+Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+                                  Location: Portland, MN
+                                  Event Date: December 22, 2018
+spotify-this-song Nonstop
+
+
+         Artist: Drake
+         Track: Nonstop
+         Preview: null
+         Album: Scorpion
+movie-this the matrix
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+concert-this travis scott
+
+Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+                                  Location: Portland, MN
+                                  Event Date: December 22, 2018
+do-what-it-says
+
+
+         Artist: Backstreet Boys
+         Track: I Want It That Way
+         Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=be85e28006624b7199155574a34cad84
+         Album: The Hits--Chapter One
+do-what-it-says
+
+
+         Artist: Backstreet Boys
+         Track: I Want It That Way
+         Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=be85e28006624b7199155574a34cad84
+         Album: The Hits--Chapter One
+do-what-it-says
+
+
+         Artist: Backstreet Boys
+         Track: I Want It That Way
+         Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=be85e28006624b7199155574a34cad84
+         Album: The Hits--Chapter One
+spotify-this-song beat it
+
+
+         Artist: Michael Jackson
+         Track: Beat It - Single Version
+         Preview: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=be85e28006624b7199155574a34cad84
+         Album: Thriller 25 Super Deluxe Edition
+node liri.js the matrix
+
+movie-this the matrix
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+spotify-this-song Beat it
+
+
+         Artist: Michael Jackson
+         Track: Beat It - Single Version
+         Preview: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=be85e28006624b7199155574a34cad84
+         Album: Thriller 25 Super Deluxe Edition
+concert-this travis scott
+
+Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+                                  Location: Portland, MN
+                                  Event Date: December 22, 2018
+movie-this the matrix
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+concert-this travis scott
+
+Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+                                  Location: Portland, MN
+                                  Event Date: December 22, 2018
+spotify-this-song Beat it
+
+
+         Artist: Michael Jackson
+         Track: Beat It - Single Version
+         Preview: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=be85e28006624b7199155574a34cad84
+         Album: Thriller 25 Super Deluxe Edition
+movie-this the matrix
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+spotify-this-song
+
+
+         Artist: Eminem
+         Track: Lose Yourself - From "8 Mile" Soundtrack
+         Preview: null
+         Album: Curtain Call
+concert-this
+
+movie-this
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+concert-this
+
+spotify-this-song Nonstop
+
+
+         Artist: Drake
+         Track: Nonstop
+         Preview: null
+         Album: Scorpion
+concert-this
+
+movie-this
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+spotify-this
+
+spotify-this Nonstop
+
+spotify-this Beat it
+
+spotify-this Nonstop
+
+spotify-this-song
+
+
+         Artist: Eminem
+         Track: Lose Yourself - From "8 Mile" Soundtrack
+         Preview: null
+         Album: Curtain Call
+movie-this
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+concert-this
+
+spotify-this-song Nonstop
+
+
+         Artist: Drake
+         Track: Nonstop
+         Preview: null
+         Album: Scorpion
+movie-this the matrix
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+concert-this travis scott
+
+Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+                                  Location: Portland, MN
+                                  Event Date: December 22, 2018
+spotify-this-song
+
+
+         Artist: Eminem
+         Track: Lose Yourself - From "8 Mile" Soundtrack
+         Preview: null
+         Album: Curtain Call
+movie-this
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+concert-this
+
+spotify-this-song beat it
+
+
+         Artist: Michael Jackson
+         Track: Beat It - Single Version
+         Preview: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=be85e28006624b7199155574a34cad84
+         Album: Thriller 25 Super Deluxe Edition
+spotify-this-song Nonstop
+
+
+         Artist: Drake
+         Track: Nonstop
+         Preview: null
+         Album: Scorpion
+movie-this the matrix
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+
+
+spotify-this-song nonstop
+
+
+         Artist: Drake
+         Track: Nonstop
+         Preview: null
+         Album: Scorpion
+spotify-this-song beat it
+
+
+         Artist: Michael Jackson
+         Track: Beat It - Single Version
+         Preview: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=be85e28006624b7199155574a34cad84
+         Album: Thriller 25 Super Deluxe Edition
+spotify-this-song beat it
+
+
+         Artist: Michael Jackson
+         Track: Beat It - Single Version
+         Preview: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=be85e28006624b7199155574a34cad84
+         Album: Thriller 25 Super Deluxe Edition
+movie-this the matrix
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+concert-this travis scott
+
+Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+                                  Location: Portland, MN
+                                  Event Date: December 22, 2018
