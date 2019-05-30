@@ -643,3 +643,368 @@ concert-this travis scott
 Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
                                   Location: Portland, MN
                                   Event Date: December 22, 2018
+spotify-this-song stronger
+
+
+         Artist: Kanye West
+         Track: Stronger
+         Preview: null
+         Album: Graduation
+movie-this the matrix
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+concert kayne west
+
+spotify-this-song bye bye bye
+
+
+         Artist: *NSYNC
+         Track: Bye Bye Bye
+         Preview: https://p.scdn.co/mp3-preview/72b91cb27fac7beb50a2deffdd8b821fba5ba950?cid=be85e28006624b7199155574a34cad84
+         Album: No Strings Attached
+movie-this the matrix
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+concert-this kayne west
+undefined
+conert-this travis scott
+
+concert-this travis scott
+
+Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+                                  Location: Portland, MN
+                                  Event Date: December 22, 2018
+concert-this g-eazy
+
+Venue: The New Parish
+                                  Location: Oakland, NY
+                                  Event Date: January 26, 2019
+Nonstop
+
+spotify-this-song Nonstop
+
+
+         Artist: Drake
+         Track: Nonstop
+         Preview: null
+         Album: Scorpion
+movie-this The Matrix
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+concert-this Travis Scott
+
+Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+                                  Location: Portland, MN
+                                  Event Date: December 22, 2018
+do-what-it-says
+
+
+         Artist: Backstreet Boys
+         Track: I Want It That Way
+         Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=be85e28006624b7199155574a34cad84
+         Album: The Hits--Chapter One
+spotify-this-song Nonstop
+
+
+         Artist: Drake
+         Track: Nonstop
+         Preview: null
+         Album: Scorpion
+do-what-it-says
+
+
+         Artist: Backstreet Boys
+         Track: I Want It That Way
+         Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=be85e28006624b7199155574a34cad84
+         Album: The Hits--Chapter One
+concert-this Travis Scott
+
+Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+                                  Location: Portland, MN
+                                  Event Date: December 22, 2018
+movie-this The Matrix
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+
+
+movie-this The Matrix
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+spotify-this-song lose yourself
+
+
+         Artist: Eminem
+         Track: Lose Yourself - From "8 Mile" Soundtrack
+         Preview: null
+         Album: Curtain Call
+concert-this travis scott
+
+Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+                                  Location: Portland, MN
+                                  Event Date: December 22, 2018
+movie-this The Matrix
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+concert-this travis scott
+
+Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+                                  Location: Portland, MN
+                                  Event Date: December 22, 2018
+spotify-this-song lose yourself
+
+
+         Artist: Eminem
+         Track: Lose Yourself - From "8 Mile" Soundtrack
+         Preview: null
+         Album: Curtain Call
+spotify-this-song lose yourself
+
+
+         Artist: Eminem
+         Track: Lose Yourself - From "8 Mile" Soundtrack
+         Preview: null
+         Album: Curtain Call
+concert-this travis scott
+
+Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+                                  Location: Portland, MN
+                                  Event Date: December 22, 2018
+movie-this The Matrix
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+do-what-it-says
+
+
+         Artist: Backstreet Boys
+         Track: I Want It That Way
+         Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=be85e28006624b7199155574a34cad84
+         Album: The Hits--Chapter One
+do-what-it-says
+
+
+         Artist: Backstreet Boys
+         Track: I Want It That Way
+         Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=be85e28006624b7199155574a34cad84
+         Album: The Hits--Chapter One
+movie-this The Matrix
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+concert-this travis scott
+
+Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+                                  Location: Portland, MN
+                                  Event Date: December 22, 2018
+concert-this travis scott
+
+Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+                                  Location: Portland, MN
+                                  Event Date: December 22, 2018
+movie-this The Matrix
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+spotify-this-song lose yourself
+
+
+         Artist: Eminem
+         Track: Lose Yourself - From "8 Mile" Soundtrack
+         Preview: null
+         Album: Curtain Call
+do-what-it-says
+
+
+         Artist: Backstreet Boys
+         Track: I Want It That Way
+         Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=be85e28006624b7199155574a34cad84
+         Album: The Hits--Chapter One
+do-what-it-says
+
+
+         Artist: Backstreet Boys
+         Track: I Want It That Way
+         Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=be85e28006624b7199155574a34cad84
+         Album: The Hits--Chapter One
+spotify-this-song lose yourself
+
+
+         Artist: Eminem
+         Track: Lose Yourself - From "8 Mile" Soundtrack
+         Preview: null
+         Album: Curtain Call
+movie-this The Matrix
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+concert-this travis scott
+
+Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+                                  Location: Portland, MN
+                                  Event Date: December 22, 2018
+concert-this travis scott
+
+Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+                                  Location: Portland, MN
+                                  Event Date: December 22, 2018
+movie-this The Matrix
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+spotify-this-song lose yourself
+
+
+         Artist: Eminem
+         Track: Lose Yourself - From "8 Mile" Soundtrack
+         Preview: null
+         Album: Curtain Call
+do-what-it-says
+
+
+         Artist: Backstreet Boys
+         Track: I Want It That Way
+         Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=be85e28006624b7199155574a34cad84
+         Album: The Hits--Chapter One
+do-what-it-says
+
+
+         Artist: Backstreet Boys
+         Track: I Want It That Way
+         Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=be85e28006624b7199155574a34cad84
+         Album: The Hits--Chapter One
+spotify-this-song lose yourself
+
+
+         Artist: Eminem
+         Track: Lose Yourself - From "8 Mile" Soundtrack
+         Preview: null
+         Album: Curtain Call
+movie-this The Matrix
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+concert-this travis scott
+
+Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+                                  Location: Portland, MN
+                                  Event Date: December 22, 2018
+concert-this travis scott
+
+Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+                                  Location: Portland, MN
+                                  Event Date: December 22, 2018
+movie-this The Matrix
+
+
+               Title: The Matrix
+               Released: 1999
+               IMDB Rating: 8.7
+               Rotten Tomatos Rating: 88%
+               Country: USA
+               Language: English
+               Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+               Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+spotify-this-song lose yourself
+
+
+         Artist: Eminem
+         Track: Lose Yourself - From "8 Mile" Soundtrack
+         Preview: null
+         Album: Curtain Call
+do-what-it-says
+
+
+         Artist: Backstreet Boys
+         Track: I Want It That Way
+         Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=be85e28006624b7199155574a34cad84
+         Album: The Hits--Chapter One
