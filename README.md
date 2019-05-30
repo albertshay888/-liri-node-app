@@ -1,12 +1,12 @@
-# -liri-node-app
+# liri-node-app
 
-Overview
-
-DEMO: 
+Overview:
 
 LIRI is a command line node app that takes in parameters and gives you back data on songs, movies, and concert performances. This app uses axios to retrieve data from Bands in Town, OMDB and Spotify. In addition LIRI will log the data you enter into your terminal/bash window and the results in a .txt file called log.txt. 
 
-![Demo](./liri-app-video-demo.mp4)
+DEMO: 
+
+![](LIRI.GIF)
 
 To retrieve a listing of upcoming concerts from a specific band/artist enter:
 
@@ -20,6 +20,5 @@ To discover where and when your artist is performing live at
 
 `node liri.js movie-this <enter favorite artist>`
 
-In addition LIRI will log the data you enter into your terminal/bash window and the results in a .txt file called log.txt, as you can see in the screen shot below
+In addition LIRI will log the data you enter into your terminal/bash window and the results in a .txt file called log.txt
 
-![Screenshot of the data that has been logged by LIRI](images/concert-this_with_band.png)
